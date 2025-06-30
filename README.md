@@ -1,4 +1,4 @@
-# MSDS_5509_Final_Pro
+# NYC Taxi Trip Time
 Final Project for Intro to Machine Learning: Supervised Learning
 Data Dictionary for explanation of features in dataset.
 Presentation and Notebook for MSDS 5509 Final Project.
